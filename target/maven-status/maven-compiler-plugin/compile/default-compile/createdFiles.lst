@@ -1,0 +1,9 @@
+com\cts\iiht\entity\Book.class
+com\cts\dao\HibernateDao.class
+com\cts\iiht\dao\SubjectDao.class
+com\cts\iiht\util\JPAUtil.class
+com\cts\iiht\service\BookService.class
+com\cts\iiht\service\SubjectService.class
+com\cts\iiht\entity\Subject.class
+com\cts\iiht\main\MainClass.class
+com\cts\iiht\dao\BookDao.class
